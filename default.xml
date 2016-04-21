@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="ssh://ahammer@github.com/ahammer" />
+  <remote name="origin" fetch="ssh://github.com/ahammer" />
   <default revision="master" remote="origin" />
 
   <project path="mysaasa"
