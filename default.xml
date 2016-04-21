@@ -4,10 +4,10 @@
   <default revision="master" remote="origin" />
 
   <project path="."
-           name="MySaasa.git" remote="origin" />
+           name="MySaasa.git" remote="origin" revision="master"/>
   
    <project path="mysaasa_client"
-           name="MySaasaClient.git" remote="origin" />
+           name="MySaasaClient.git" remote="origin" revision="master"/>
 
 
 
