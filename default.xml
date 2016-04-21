@@ -3,7 +3,7 @@
   <remote name="origin" fetch="https://github.com/ahammer" />
   <default revision="master" remote="origin" />
 
-  <project path=""
+  <project path="."
            name="MySaasa.git" remote="origin" />
   
    <project path="mysaasa_client"
