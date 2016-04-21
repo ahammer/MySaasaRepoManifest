@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin" fetch="ssh://ahammer@github.com/ahammer" />
+  <default revision="master" remote="origin" />
+
+  <project path="mysaasa"
+           name="MySaasa.git" remote="origin" />
+  
+   <project path="mysaasa_client"
+           name="MySaasaClient.git" remote="origin" />
+
+
+
+</manifest>
